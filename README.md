@@ -6,5 +6,9 @@ This study proposes a novel denoising technique using digital signal processing 
 Please note that the audio recordings used in this study are classified due to their nature as real patient data and cannot be shared publicly
 <br />
 
+<h2>Languages and Utilities Used</h2>
+
+- <b>Python</b>
+
 
 
