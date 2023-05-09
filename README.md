@@ -10,5 +10,8 @@ Please note that the audio recordings used in this study are classified due to t
 
 - <b>Python</b>
 
-
+<p align="center">
+Launch the utility: <br/>
+<img src="[https://i.imgur.com/62TgaWL.png](https://orthoinfo.aaos.org/contentassets/06749e3ab7434cc380f6c5e581e987a2/total-hip-replacement-animation.mp4)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
